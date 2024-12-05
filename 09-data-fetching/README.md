@@ -2,10 +2,11 @@
 In today's class we learn about fetching an api with the help of `fetch()` (built-in function of JS) and wite some topics regarding promise (async, await). Secondly we have also learned static and dynamic props.
 
 ## Props result
-![Props Result](/src/public/image.png)
+![image](https://github.com/user-attachments/assets/51136b7c-ba45-44bc-97ef-482ba7cd50a5)
 
 ## fetching api result
-![Fetching result](/src/public/image2.png)
+![image](https://github.com/user-attachments/assets/53bf57d1-213d-406a-940f-2e33086c9e43)
+
 
 ### this repo will help you access some knowledge about the above api
 https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md
